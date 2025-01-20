@@ -19,7 +19,4 @@ I'm a passionate developer with a keen interest in creating innovative applicati
 - Email: youremail@example.com
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - Twitter: [Your Twitter](https://twitter.com/yourprofile)
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+![gif](https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif?cid=ecf05e47hqaafcbrrg615255ss0yuhzxf5maqf65litbhndy&ep=v1_gifs_related&rid=giphy.gif&ct=g).
