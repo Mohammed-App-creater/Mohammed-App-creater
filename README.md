@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Mohammed 👋
 
+### About Me
+I'm a passionate developer with a keen interest in creating innovative applications. I love working on open-source projects and collaborating with the community.
 
-**Mohammed-App-creater/Mohammed-App-creater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills and Technologies
+- **Languages:** JavaScript, Python, Java
+- **Frameworks/Libraries:** React, Node.js, Django
+- **Tools:** Git, Docker, AWS
 
-Here are some ideas to get you started:
+### Projects
+- [**Project Name**](https://github.com/your-username/project-name)  
+  A brief description of what this project does.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [**Another Project**](https://github.com/your-username/another-project)  
+  A brief description of what this project does.
 
+### Contact Me
+- Email: youremail@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- Twitter: [Your Twitter](https://twitter.com/yourprofile)
+
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
