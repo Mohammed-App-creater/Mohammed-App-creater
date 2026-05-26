@@ -1,7 +1,18 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6342f5&height=200&section=header&text=Mohammed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20ECE%20%40%20ASTU&descAlignY=58&descColor=9d80ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,100:378add&height=200&section=header&text=Mohammed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20ECE%20%40%20ASTU&descAlignY=58&descColor=9d80ff&animation=fadeIn" />
+
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=580&lines=%24+open+to+collaborate+%E2%9C%A8;Building+CRM+for+Coaches+%F0%9F%8F%97%EF%B8%8F;Building+Analytics+AI+for+SaaS+%F0%9F%A4%96;Building+a+3D+Portfolio+%F0%9F%8C%90;Django+%7C+FastAPI+%7C+Next.js+%7C+React+%7C+TypeScript;Software+Engineering+%40+ASTU+%E2%80%94+Year+5+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23020409?style=for-the-badge&logo=linkedin&logoColor=378add)](https://www.linkedin.com/in/mohammed-ismail-368502384)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23020409?style=for-the-badge&logo=vercel&logoColor=378add)](https://mohammed-app-creater.github.io/Myporfile/)
+[![Email](https://img.shields.io/badge/Email-%23020409?style=for-the-badge&logo=gmail&logoColor=378add)](mailto:mahammedismail160@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohammed-app-creater&style=for-the-badge&color=185fa5&label=PROFILE+VIEWS)](https://github.com/mohammed-app-creater)
 
 </div>
 
@@ -9,23 +20,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=9D80FF&center=true&vCenter=true&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Open+to+collaborate+%E2%9C%A8)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/5th_Year_SE_Student-%23020409?style=flat-square&labelColor=020409&color=185fa5)
+![](https://img.shields.io/badge/Full--Stack_Engineer-%23020409?style=flat-square&color=185fa5)
+![](https://img.shields.io/badge/AI_Engineer-%23020409?style=flat-square&color=185fa5)
+![](https://img.shields.io/badge/Always_Learning_∞-%23020409?style=flat-square&color=185fa5)
 
 </div>
-
-<br/>
-
-<!-- Quick links row -->
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236342F5?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-app-creater.github.io/Myporfile/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-ismail-2023at02)
-[![Email](https://img.shields.io/badge/Email-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahammedismail160@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=mohammed-app-creater&style=for-the-badge&color=6342f5&label=PROFILE+VIEWS)](https://github.com/mohammed-app-creater)
-
-</div>
-
-<br/>
 
 ---
 
@@ -34,97 +34,148 @@
 ```ts
 const mohammed = {
   name:       "Mohammed Ismail",
-  role:       "Full-Stack Developer",
-  university: "ASTU — Electrical & Computer Engineering, Year 2",
-  currently:  "Building a Gemini AI Clone 🤖",
-  learning:   ["React", "Next.js", "System Design"],
-  askMeAbout: ["React", "CSS", "JavaScript", "Web Architecture"],
+  roles:      ["Full-Stack Developer", "AI Engineer"],
+  university: "ASTU — Software Engineering, Year 5",
+  currently:  [
+    "Building a CRM platform for Coaches (Django + Next.js) 🏗️",
+    "Building Analytics AI for a SaaS product 🤖",
+    "Building a 3D Portfolio 🌐",
+  ],
+  learning:   ["React", "Next.js", "System Design", "FastAPI", "AI/ML"],
+  askMeAbout: ["React", "CSS", "JavaScript", "Django", "FastAPI", "Next.js", "AI"],
   contact:    "mahammedismail160@gmail.com",
   funFact:    "I bridge hardware thinking with software craftsmanship ⚡",
 };
 ```
 
-<br/>
+---
+
+## ⚙️ ABOUT ME
+
+> 🔭 Currently building a **CRM platform for coaches** — Django backend + Next.js frontend, full production stack
+
+> 🤖 Also building **Analytics AI for a SaaS** product — bringing intelligence to real business data
+
+> 🌐 Working on my **3D Portfolio** — pushing the limits of what a developer portfolio can look like
+
+> 🌱 Deep-diving into **FastAPI, Next.js, System Design & AI Engineering** — obsessed with performance and clean architecture
+
+> 🎓 **Software Engineering student @ ASTU** — entering Year 5, bridging deep theory with production-grade software
+
+> 💬 Ask me anything about **React, CSS, JavaScript, Django, FastAPI, Next.js, AI** — I genuinely love explaining this stuff
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 <div align="center">
 
-**Frontend**
+**— Frontend —**
 
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🤖 [**Gemini AI Clone**](https://github.com/Mohammed-App-creater/ASTU-intrance-project-v2) | Full-featured AI chat interface built from scratch | React · Next.js · API | 🟢 Active |
-| 🌐 [**Portfolio**](https://mohammed-app-creater.github.io/Myporfile/) | Personal dev portfolio showcasing all projects | HTML · CSS · JS | 🟢 Live |
-
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammed-app-creater&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d80ff&icon_color=1d9e75&text_color=8888a8&border_radius=12" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-app-creater&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d80ff&text_color=8888a8&border_radius=12" />
+<img src="https://img.shields.io/badge/React-%23020409?style=for-the-badge&logo=react&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Next.js-%23020409?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" height="50"/>
+<img src="https://img.shields.io/badge/TypeScript-%23020409?style=for-the-badge&logo=typescript&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/JavaScript-%23020409?style=for-the-badge&logo=javascript&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Tailwind-%23020409?style=for-the-badge&logo=tailwind-css&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Bootstrap-%23020409?style=for-the-badge&logo=bootstrap&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/CSS3-%23020409?style=for-the-badge&logo=css3&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/HTML5-%23020409?style=for-the-badge&logo=html5&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Three.js-%23020409?style=for-the-badge&logo=threedotjs&logoColor=ffffff" height="50"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-app-creater&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e1e2e&ring=6342f5&fire=1d9e75&currStreakLabel=9d80ff&border_radius=12" />
+**— Backend & APIs —**
+
+<img src="https://img.shields.io/badge/Django-%23020409?style=for-the-badge&logo=django&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/FastAPI-%23020409?style=for-the-badge&logo=fastapi&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Node.js-%23020409?style=for-the-badge&logo=nodedotjs&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/REST_API-%23020409?style=for-the-badge&logo=fastapi&logoColor=378add" height="50"/>
+
+<br/><br/>
+
+**— AI & Data —**
+
+<img src="https://img.shields.io/badge/Python-%23020409?style=for-the-badge&logo=python&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23020409?style=for-the-badge&logo=tensorflow&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/OpenAI-%23020409?style=for-the-badge&logo=openai&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/LangChain-%23020409?style=for-the-badge&logo=chainlink&logoColor=378add" height="50"/>
+
+<br/><br/>
+
+**— Databases —**
+
+<img src="https://img.shields.io/badge/MongoDB-%23020409?style=for-the-badge&logo=mongodb&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/MySQL-%23020409?style=for-the-badge&logo=mysql&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23020409?style=for-the-badge&logo=postgresql&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Redis-%23020409?style=for-the-badge&logo=redis&logoColor=378add" height="50"/>
+
+<br/><br/>
+
+**— Languages & Tools —**
+
+<img src="https://img.shields.io/badge/Java-%23020409?style=for-the-badge&logo=openjdk&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/C++-%23020409?style=for-the-badge&logo=cplusplus&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Git-%23020409?style=for-the-badge&logo=git&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Docker-%23020409?style=for-the-badge&logo=docker&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Postman-%23020409?style=for-the-badge&logo=postman&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/Vercel-%23020409?style=for-the-badge&logo=vercel&logoColor=ffffff" height="50"/>
+<img src="https://img.shields.io/badge/Linux-%23020409?style=for-the-badge&logo=linux&logoColor=378add" height="50"/>
+<img src="https://img.shields.io/badge/VS_Code-%23020409?style=for-the-badge&logo=visualstudiocode&logoColor=378add" height="50"/>
 
 </div>
-
-<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mohammed-app-creater&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| &nbsp; | Project | Description | Stack |
+|:-:|:--|:--|:--|
+| 🔵 | **CRM for Coaches** | Full-stack CRM — Django REST backend, Next.js frontend, Docker + Vercel. Built for real coaches with real workflows. | `Django` `Next.js` `Docker` `Vercel` |
+| 🤖 | **Analytics AI for SaaS** | AI-powered analytics engine bringing intelligent insights to SaaS business data. | `FastAPI` `Python` `AI/ML` |
+| 🌐 | **3D Portfolio** | Next-generation developer portfolio built with 3D interactions and immersive UI. | `Three.js` `React` `Next.js` |
+| 🟢 | [**Portfolio v2**](https://mohammed-app-creater.github.io/Myporfile/) | Personal dev portfolio showcasing projects, skills and my journey — clean, fast, always evolving. | `HTML` `CSS` `JS` |
 
 </div>
 
-<br/>
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<a href="https://github.com/mohammed-app-creater">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammed-app-creater&theme=github_dark" alt="Mohammed's GitHub Stats"/>
+</a>
+<a href="https://github.com/mohammed-app-creater">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammed-app-creater&theme=github_dark" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mohammed-app-creater">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammed-app-creater&theme=github_dark" alt="Top Languages by Repo"/>
+</a>
+<a href="https://github.com/mohammed-app-creater">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammed-app-creater&theme=github_dark&utcOffset=3" alt="Productive Time"/>
+</a>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mohammed-app-creater&hide_border=true&background=020409&stroke=0a152a&ring=378add&fire=378add&currStreakLabel=378add&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mohammed-app-creater&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -132,10 +183,16 @@ const mohammed = {
 
 **Let's build something great together.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-ismail-2023at02)
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%23020409?style=for-the-badge&logo=linkedin&logoColor=378add)](https://www.linkedin.com/in/mohammed-ismail-368502384)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6342f5&height=100&section=footer&animation=fadeIn" />
+📫 mahammedismail160@gmail.com
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:378add,100:020409&height=100&section=footer"/>
 
 </div>
