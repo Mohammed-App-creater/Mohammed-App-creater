@@ -1,31 +1,141 @@
-<img src="https://github.com/Mohammed-App-creater/Mohammed-App-creater/blob/master/Web%20Development.gif?raw=true" />
-<h1 align="center">Hi 👋, I'm Mohammed Ismail</h1>
-<h3 align="center">A passionate Full-stack web developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-app-creater&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-app-creater" /> </p>
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6342f5&height=200&section=header&text=Mohammed%20Ismail&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20ECE%20%40%20ASTU&descAlignY=58&descColor=9d80ff&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-app-creater" alt="mohammed-app-creater" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [Gamini Ai Clone](https://github.com/Mohammed-App-creater/ASTU-intrance-project-v2)
+<br/>
 
-- 🌱 I’m currently learning **React, and Next.js**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://mohammed-app-creater.github.io/Myporfile/](https://mohammed-app-creater.github.io/Myporfile/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=9D80FF&center=true&vCenter=true&width=500&lines=Building+things+that+matter+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript;Open+to+collaborate+%E2%9C%A8)](https://git.io/typing-svg)
 
-- 💬 Ask me about **react,css,Javascript**
+</div>
 
-- 📫 How to reach me **mahammedismail160@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-ismail-2023at02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-ismail-2023at02" height="30" width="40" /></a>
-</p>
+<!-- Quick links row -->
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236342F5?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammed-app-creater.github.io/Myporfile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-ismail-2023at02)
+[![Email](https://img.shields.io/badge/Email-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahammedismail160@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohammed-app-creater&style=for-the-badge&color=6342f5&label=PROFILE+VIEWS)](https://github.com/mohammed-app-creater)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-app-creater&show_icons=true&locale=en&layout=compact" alt="mohammed-app-creater" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-app-creater&show_icons=true&locale=en" alt="mohammed-app-creater" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-app-creater&" alt="mohammed-app-creater" /></p>
+---
+
+## `$ whoami`
+
+```ts
+const mohammed = {
+  name:       "Mohammed Ismail",
+  role:       "Full-Stack Developer",
+  university: "ASTU — Electrical & Computer Engineering, Year 2",
+  currently:  "Building a Gemini AI Clone 🤖",
+  learning:   ["React", "Next.js", "System Design"],
+  askMeAbout: ["React", "CSS", "JavaScript", "Web Architecture"],
+  contact:    "mahammedismail160@gmail.com",
+  funFact:    "I bridge hardware thinking with software craftsmanship ⚡",
+};
+```
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🤖 [**Gemini AI Clone**](https://github.com/Mohammed-App-creater/ASTU-intrance-project-v2) | Full-featured AI chat interface built from scratch | React · Next.js · API | 🟢 Active |
+| 🌐 [**Portfolio**](https://mohammed-app-creater.github.io/Myporfile/) | Personal dev portfolio showcasing all projects | HTML · CSS · JS | 🟢 Live |
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammed-app-creater&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d80ff&icon_color=1d9e75&text_color=8888a8&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-app-creater&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d80ff&text_color=8888a8&border_radius=12" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-app-creater&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e1e2e&ring=6342f5&fire=1d9e75&currStreakLabel=9d80ff&border_radius=12" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mohammed-app-creater&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**Let's build something great together.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-ismail-2023at02)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6342f5&height=100&section=footer&animation=fadeIn" />
+
+</div>
